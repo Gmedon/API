@@ -1,0 +1,13 @@
+{
+  "name": "api-json",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --port $PORT src/db.json"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.1",
+    "render": "^0.1.4"
+  }
+}
