@@ -6,7 +6,10 @@
       "idade": 19,
       "status": "pago",
       "turno": "noite",
-      "endereco": "Bangu, RJ"
+      "endereco": "Bangu, RJ",
+      "email": "bigolin00@gmail.com",
+      "telefone": "(21)981889098",
+      "cpf": "000.000.000-00"
     },
     {
       "id": 2,
@@ -14,7 +17,10 @@
       "idade": 19,
       "status": "pendente",
       "turno": "manha",
-      "endereco": "Vargem Grande, RJ"
+      "endereco": "Vargem Grande, RJ",
+      "email": "guilhermememedon@gmail.com",
+      "telefone": "(21)981866590",
+      "cpf": "123.456.789-01"
     }
   ]
 }
