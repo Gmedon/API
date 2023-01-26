@@ -9,8 +9,7 @@
       "plano": "senior",
       "endereco": "Bangu, RJ",
       "email": "bigolin00@gmail.com",
-      "telefone": "(21)981889098",
-      "cpf": "000.000.000-00"
+      "telefone": "(21)981889098"
     },
     {
       "id": 2,
@@ -21,8 +20,7 @@
       "plano": "junior",
       "endereco": "Vargem Grande, RJ",
       "email": "guilhermememedon@gmail.com",
-      "telefone": "(21)981866590",
-      "cpf": "123.456.789-01"
+      "telefone": "(21)981866590"
     }
   ]
 }
