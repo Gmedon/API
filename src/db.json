@@ -1,26 +1,10 @@
 {
-  "cadastro": [
+  "jogo": [
     {
       "id": 1,
-      "nome": "Rayan Argolo",
-      "idade": 19,
-      "status": "pago",
-      "turno": "noite",
-      "plano": "senior",
-      "endereco": "Bangu, RJ",
-      "email": "bigolin00@gmail.com",
-      "telefone": "(21)981889098"
-    },
-    {
-      "id": 2,
-      "nome": "Guilherme Medon",
-      "idade": 19,
-      "status": "pendente",
-      "turno": "manha",
-      "plano": "junior",
-      "endereco": "Vargem Grande, RJ",
-      "email": "guilhermememedon@gmail.com",
-      "telefone": "(21)981866590"
+      "img": "https://images.pexels.com/photos/5504577/pexels-photo-5504577.jpeg?cs=srgb&dl=pexels-magali-guimar%C3%A3es-5504577.jpg&fm=jpg",
+      "titulo": "Capivara",
+      "desc": "São animais calmos e mansos; – São mamíferos herbívoros que se destacam por levarem o título de maior roedor do mundo; – São animais territorialistas, ou seja, são animais que defendem áreas que apresentam condições para a sua sobrevivência, como alimentos e local de acasalamento."
     }
   ]
 }
