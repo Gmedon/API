@@ -4,31 +4,105 @@
       "id": 1,
       "img": "https://images.pexels.com/photos/5504577/pexels-photo-5504577.jpeg?cs=srgb&dl=pexels-magali-guimar%C3%A3es-5504577.jpg&fm=jpg",
       "titulo": "Capivara",
+      "tipo": "Animal",
+      "nac": "Brasileira",
       "desc": "São animais calmos e mansos; – São mamíferos herbívoros que se destacam por levarem o título de maior roedor do mundo; – São animais territorialistas, ou seja, são animais que defendem áreas que apresentam condições para a sua sobrevivência, como alimentos e local de acasalamento."
     },
     {
       "id": 2,
       "img": "https://i0.wp.com/oeco.org.br/wp-content/uploads/2018/08/mico-le%C3%A3o-dourado-Foto-Khass2000.jpg?fit=1152%2C768&ssl=1",
       "titulo": "Mico leão dourado",
+      "tipo": "Animal",
+      "nac": "Brasileira",
       "desc": "Este pequeno primata mede entre 22 e 30 cm e pode pesar até 800 g. O corpo apresenta uma pelagem que varia do dourado ao alaranjado. Os pelos ao redor da cabeça e pescoço são mais longos, formando uma juba."
     },
     {
       "id": 3,
       "img": "https://www.mundoecologia.com.br/wp-content/uploads/2019/10/Boto-Cor-de-Rosa-6-1.jpg",
       "titulo": "Boto-Cor-De-Rosa",
+      "tipo": "Animal",
+      "nac": "Brasileira",
       "desc": "De todas as espécies de golfinhos de rio, o boto-cor-de-rosa é a maior. Os machos podem chegar a 2,5 metros de comprimento e pesar até 200 quilos; as fêmeas, um pouco menores, chegam a medir 2,2 metros e a pesar 150 quilos, em média. Os olhos dos botos-cor-de-rosa são pequenos, mas sua visão é boa."
     },
     {
       "id": 4,
       "img": "https://www.guiaviagensbrasil.com/imagens/foto-arara-no-zoologico-sp.jpg",
       "titulo": "Arara-azul",
+      "tipo": "Animal",
+      "nac": "Brasileira",
       "desc": "Assim como todas as 18 espécies de arara possui bico forte, língua carnosa e cauda longa em forma de espada. São menos dotadas que os papagaios para a fala e conseguem aprender apenas algumas palavras isoladas. Alimentam-se de sementes, frutas, larvas e insetos."
     },
     {
       "id": 5,
       "img": "https://media.istockphoto.com/id/153730635/pt/foto/jaguar.jpg?s=612x612&w=0&k=20&c=OmV1dE0de_MYxF4qQT-N7KyhZ_WPHp8Kkhmy7gdWSGk=",
       "titulo": "Onça-pintada",
+      "tipo": "Animal",
+      "nac": "Brasileira",
       "desc": "A onça-pintada é o maior felino do continente americano, podendo chegar a 135 kg. É um animal robusto, com grande força muscular, sendo a potência de sua mordida considerada a maior dentre os felinos de todo o mundo."
+    },
+    {
+      "id": 6,
+      "img": "https://s3.static.brasilescola.uol.com.br/be/2022/04/sucuri.jpg",
+      "titulo": "Sucuri",
+      "tipo": "Animal",
+      "nac": "Brasileira",
+      "desc": "A sucuri tem um corpo verde-escuro, com manchas ovais pretas. Os olhos e narinas estão no alto da cabeça, para que possa ver e respirar enquanto nada. Também podem morder, por defesa, qualquer pessoa que se aproxime, quando não podem fugir nadando."
+    },
+    {
+      "id": 7,
+      "img": "https://www.ufrgs.br/faunadigitalrs/wp-content/uploads/2019/04/Pteronura-brasiliensis-1-1024x768.jpg",
+      "titulo": "Ariranha",
+      "tipo": "Animal",
+      "nac": "Brasileira",
+      "desc": "A ariranha apresenta o corpo longo coberto por uma pelagem densa e de cor marrom com uma mancha branca no pescoço, uma cauda robusta e achatada, que a auxilia na natação, e tamanho que varia entre 1,5 e 1,8 metro."
+    },
+    {
+      "id": 8,
+      "img": "https://media.istockphoto.com/id/1044284546/pt/foto/atlantic-forest-in-brazil-mata-atlantica.jpg?s=612x612&w=0&k=20&c=F8OjfCedWmvBD1Ax2qT20JuNiP4QKfcbEgWJUIK1pL0=",
+      "titulo": "Amazônia",
+      "tipo": "Bioma",
+      "nac": "Brasileira",
+      "desc": "abrange a maior bacia hidrográfica do mundo, bem como a maior floresta tropical. é considerado o conjunto de ecossistemas de maior diversidade do planeta. abriga milhares de espécies de animais e vegetais, entre catalogados e desconhecidos. tem em sua flora um enorme potencial medicinal, atraindo olhares do mundo todo."
+    },
+    {
+      "id": 9,
+      "img": "https://geografiavisual.com.br/wp-content/uploads/2018/04/16204762546_983b19d38f_k-600x315.jpg",
+      "titulo": "Mata Atlântica",
+      "tipo": "Bioma",
+      "nac": "Brasileira",
+      "desc": "As árvores de grande porte formam um microclima na mata, produzindo sombra e umidade. Presença de árvores de médio e grande porte que formam uma floresta densa e fechada. Grande biodiversidade com a presença de diversas espécies animais e vegetais."
+    },
+    {
+      "id": 10,
+      "img": "https://media.istockphoto.com/id/1180879558/pt/foto/landscape-of-brazilian-cerrado.jpg?s=612x612&w=0&k=20&c=P0c5b4ozGbmIGYYupsnjJyJHsbuVCoLq8SkM83tc20w=",
+      "titulo": "Cerrado",
+      "tipo": "Bioma",
+      "nac": "Brasileira",
+      "desc": "É conhecido como savana brasileira e possui uma grande biodiversidade. Sua vegetação possui características predominantes, como árvores de tronco grosso e tortuoso, além de gramíneas e arbustos. O clima do Cerrado é tropical sazonal, apresentando duas estações definidas: uma seca e outra chuvosa."
+    },
+    {
+      "id": 11,
+      "img": "https://t4.ftcdn.net/jpg/02/99/28/81/360_F_299288196_HM7kuTgMWPN2TM4wD6KA0Vkf8AZsSSVZ.jpg",
+      "titulo": "Caatinga",
+      "tipo": "Bioma",
+      "nac": "Brasileira",
+      "desc": "A Caatinga é caracterizada pelo clima e pela vegetação seca. Os solos desse bioma são pobres em matéria orgânica, e a maior parte dos rios locais são intermitentes. As espécies de animais e vegetais da Caatinga são altamente adaptadas ao clima semiárido."
+    },
+    {
+      "id": 12,
+      "img": "https://beduka.com/blog/wp-content/uploads/2019/03/o-que-%C3%A9-o-pampa.jpg",
+      "titulo": "Pampa",
+      "tipo": "Bioma",
+      "nac": "Brasileira",
+      "desc": "Pampa é um bioma localizado no extremo Sul do país. Ele se caracteriza por apresentar um relevo pouco acidentado, e sua vegetação é composta por plantas herbáceas, arbustos e árvores de pequeno porte, como o capim-forquilha, o trevo-nativo e o algarrobo."
+    },
+    {
+      "id": 13,
+      "img": "https://static.mundoeducacao.uol.com.br/mundoeducacao/2020/09/vitoria-regia.jpg",
+      "titulo": "Pantanal",
+      "tipo": "Bioma",
+      "nac": "Brasileira",
+      "desc": "O Pantanal apresenta grande integração de outros biomas, podendo ter áreas de ocorrência com o Cerrado, a Caatinga, e florestas tropicais. Entretanto, a principal característica desse bioma é sua planície inundada, sua marca registrada no Brasil."
     }
   ]
 }
