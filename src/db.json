@@ -5,6 +5,30 @@
       "img": "https://images.pexels.com/photos/5504577/pexels-photo-5504577.jpeg?cs=srgb&dl=pexels-magali-guimar%C3%A3es-5504577.jpg&fm=jpg",
       "titulo": "Capivara",
       "desc": "São animais calmos e mansos; – São mamíferos herbívoros que se destacam por levarem o título de maior roedor do mundo; – São animais territorialistas, ou seja, são animais que defendem áreas que apresentam condições para a sua sobrevivência, como alimentos e local de acasalamento."
-    }
+    },
+    {
+      "id": 2,
+      "img": "https://i0.wp.com/oeco.org.br/wp-content/uploads/2018/08/mico-le%C3%A3o-dourado-Foto-Khass2000.jpg?fit=1152%2C768&ssl=1",
+      "titulo": "Mico leão dourado",
+      "desc": "Este pequeno primata mede entre 22 e 30 cm e pode pesar até 800 g. O corpo apresenta uma pelagem que varia do dourado ao alaranjado. Os pelos ao redor da cabeça e pescoço são mais longos, formando uma juba."
+    },
+    {
+      "id": 3,
+      "img": "https://www.mundoecologia.com.br/wp-content/uploads/2019/10/Boto-Cor-de-Rosa-6-1.jpg",
+      "titulo": "Boto-Cor-De-Rosa",
+      "desc": "De todas as espécies de golfinhos de rio, o boto-cor-de-rosa é a maior. Os machos podem chegar a 2,5 metros de comprimento e pesar até 200 quilos; as fêmeas, um pouco menores, chegam a medir 2,2 metros e a pesar 150 quilos, em média. Os olhos dos botos-cor-de-rosa são pequenos, mas sua visão é boa."
+    },
+    {
+      "id": 4,
+      "img": "https://www.guiaviagensbrasil.com/imagens/foto-arara-no-zoologico-sp.jpg",
+      "titulo": "Arara-azul",
+      "desc": "Assim como todas as 18 espécies de arara possui bico forte, língua carnosa e cauda longa em forma de espada. São menos dotadas que os papagaios para a fala e conseguem aprender apenas algumas palavras isoladas. Alimentam-se de sementes, frutas, larvas e insetos."
+    },
+    {
+      "id": 5,
+      "img": "https://media.istockphoto.com/id/153730635/pt/foto/jaguar.jpg?s=612x612&w=0&k=20&c=OmV1dE0de_MYxF4qQT-N7KyhZ_WPHp8Kkhmy7gdWSGk=",
+      "titulo": "Onça-pintada",
+      "desc": "A onça-pintada é o maior felino do continente americano, podendo chegar a 135 kg. É um animal robusto, com grande força muscular, sendo a potência de sua mordida considerada a maior dentre os felinos de todo o mundo."
+    },
   ]
 }
