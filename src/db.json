@@ -104,5 +104,21 @@
       "nac": "Brasileira",
       "desc": "O Pantanal apresenta grande integração de outros biomas, podendo ter áreas de ocorrência com o Cerrado, a Caatinga, e florestas tropicais. Entretanto, a principal característica desse bioma é sua planície inundada, sua marca registrada no Brasil."
     }
-  ]
+  ],
+  "alunos": [
+    {
+      "id": 1,
+      "idade": 19,
+      "email": "guilhermememedon@gmail.com",
+      "telefone": 21981866590,
+      "endereco": "Vargem Grande, Dezoito de fevereiro",
+      "linkedin": "https://www.linkedin.com/in/Gmedon/",
+      "github": "https://github.com/Gmedon",
+      "sobre": "Apaixonado por tecnologia me vejo fazendo o que eu amo nessa área, sendo ativista luto pelas causas do meio ambiente. Gosto de fazer essa junta de tecnologia com ambiente e vejo isso como o futuro!!!",
+      "projetodestaque": "Este projeto foi desenvolvido por minha equipe :)",
+      "img": "guilhermemedon.jpg"
+    }
+    
+    ]
+  
 }
